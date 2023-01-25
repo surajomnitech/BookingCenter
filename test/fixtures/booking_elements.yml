@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  availablefrom: 2023-01-20 16:53:09
+  booking_element_type: one
+  timeslotlengthhr: 1
+  renewauto: false
+  rate: 9.99
+  bookingcyclelength: 1
+  isactive: false
+  site: one
+
+two:
+  name: MyString
+  availablefrom: 2023-01-20 16:53:09
+  booking_element_type: two
+  timeslotlengthhr: 1
+  renewauto: false
+  rate: 9.99
+  bookingcyclelength: 1
+  isactive: false
+  site: two
